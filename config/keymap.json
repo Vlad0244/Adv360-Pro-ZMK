@@ -35,11 +35,11 @@
         "&none",        "&none",        "&none",        "&none",   "&macro_ver",        "&none",                                     "&none",                          "&none",                                          "&none",      "&none",      "&none",  "&none",  "&none",  "&none",
         "&none",        "&none",        "&none",        "&none",        "&none",                                 "&none",  "&none",  "&none",                          "&none", "&bl BL_TOG",        "&rgb_ug RGB_TOG",           "&bl BL_INC", "&bl BL_DEC",  "&none",  "&none",  "&none"
     ], [
-        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",           "&trans",                                                             "&trans",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
-        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",           "&trans",                                                             "&trans",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
-        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",           "&trans",  "&none",  "&none",                      "&none",  "&none", "&trans",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
-        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",                                "&none",                      "&none",                      "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
-        "&none",  "&none",  "&none",  "&none",  "&none",                      "&none",  "&none",  "&none",                      "&none",  "&none",  "&none",            "&none",  "&none",  "&none",  "&none",  "&none"
+       "&kp EQUAL", "&kp NUMBER_1", "&kp N2", "&kp N3", "&kp N4", "&kp N5",           "&trans",                                                             "&trans",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+           "&none",        "&none",  "&none",  "&none",  "&none",  "&none",           "&trans",                                                             "&trans",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+           "&none",        "&none",  "&none",  "&none",  "&none",  "&none",           "&trans",  "&none",  "&none",                      "&none",  "&none", "&trans",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+           "&none",        "&none",  "&none",  "&none",  "&none",  "&none",                                "&none",                      "&none",                      "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+           "&none",        "&none",  "&none",  "&none",  "&none",                      "&none",  "&none",  "&none",                      "&none",  "&none",  "&none",            "&none",  "&none",  "&none",  "&none",  "&none"
     ]
   ]
 }
